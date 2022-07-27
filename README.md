@@ -1,4 +1,4 @@
-﻿
+﻿test
 ﻿[![Kottans-Frontend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-frontend-yellow.svg)](https://github.com/kottans/frontend)
 [![Kottans-Backend](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-backend-blue.svg)](https://github.com/kottans/backend)
 [![Kottans-Git](https://img.shields.io/badge/%3D%28%5E.%5E%29%3D-git-orange.svg)](https://github.com/kottans/git-course)
@@ -16,7 +16,7 @@ I'm happy to be with kottans
 (https://github.com/kottans/git-course)
 
 
-<h1 align="center"> Hi , everybody</h1>
+<h1 align="center"> Hello , everybody</h1>
 <hr/>
 <p> <span>I am Alex.</span> I'm so glad to join the Kottans community! <br/> I am computer engineering student, looking for a new frond-end a knowledge and some friends : ) </p>
 <strong> Look at this engineer ☺</strong>
